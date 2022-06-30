@@ -1,0 +1,10 @@
+{
+  "nome": "Lucas Filipe Ramos",
+  "cidade": "Sete Lagoas",
+  "telefone": 995599198,
+  "frutasFavoritas": ["banana", "maça", "morango"],
+  "hobies": {
+    "sabado": "tomar uma",
+    "domingo": "ir a igreja"
+  }
+}
